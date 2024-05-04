@@ -1,7 +1,6 @@
 # Douglas Mory
 
 ## Sobre mim 
-
 ```
     Atualmente um estudande de Ciencia da Computação que ainda
     está sem um norte, até o momento deixando apenas o 'rio' o
@@ -15,7 +14,5 @@
 ```
 
 ## Vamos conversar / Trocar ideia
-```
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:douglasmory10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-mory-686105237/)
-```
